@@ -1,4 +1,4 @@
-## Hi there 👋
+
 ![My GitHub Profile Image](github_profile.png)
 
 <!--
