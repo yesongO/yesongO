@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<div align="center">
+  <img src="images/github_profile.png" alt="My GitHub Profile Image" />
+</div>
+
+
 -->
