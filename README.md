@@ -2,7 +2,8 @@
   <img src="github_profile4.png" alt="My GitHub Profile Image" />
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=radical&bg_color=00000000&hide_border=true)
+
 
 
 <!--
@@ -17,4 +18,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact)
+
 -->
