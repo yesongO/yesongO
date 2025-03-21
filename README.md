@@ -1,5 +1,8 @@
+<div align="center">
+  <img src="github_profile.png" alt="My GitHub Profile Image" />
+</div>
 
-![My GitHub Profile Image](github_profile.png)
+
 
 <!--
 **yesongO/yesongO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
