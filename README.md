@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <img src="github_profile.png" alt="My GitHub Profile Image" />
+  <img src="https://raw.githubusercontent.com/yesongO/yesongO/main/github_profile.png" alt="My GitHub Profile Image" />
 </div>
 
-![My GitHub Profile Image](github_profile.png)
 -->
