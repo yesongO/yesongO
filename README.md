@@ -19,5 +19,5 @@ Here are some ideas to get you started:
   <img src="github_profile.png" alt="My GitHub Profile Image" />
 </div>
 
-
+![My GitHub Profile Image](github_profile.png)
 -->
