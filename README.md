@@ -8,10 +8,10 @@
 
 <p style="font-size: 18px;">
   <b>👩🏻‍💻 Frontend Developer</b><br>
-  🏫 Inha-University (Dept. of Design Technology)
+  <b>🏫 Inha-University (Dept. of Design Technology)</b>
 </p>
 
-<hr style="border: 1px solid black;">
+<hr style="border: 0.5px solid black;">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=radical&bg_color=00000000&hide_border=true)
 
