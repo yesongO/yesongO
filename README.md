@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img src="github_profile4.png" alt="My GitHub Profile Image" />
 </div>
 
