@@ -3,7 +3,10 @@
 <div align="left">
   <img src="github_profile5.png" alt="My GitHub Profile Image" />
 </div>
+
+### 🔹 frontend developer
 ---
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=radical&bg_color=00000000&hide_border=true)
 
 
