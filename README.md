@@ -2,7 +2,7 @@
   <img src="github_profile4.png" alt="My GitHub Profile Image" />
 </div>
 
-<marquee behavior="scroll" direction="right">
+<marquee behavior="scroll" direction="right" scrollamount="10">
   <img src="cat_profile.gif" width="100" />
 </marquee>
 
