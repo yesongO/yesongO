@@ -2,9 +2,7 @@
   <img src="github_profile4.png" alt="My GitHub Profile Image" />
 </div>
 
-<marquee behavior="scroll" direction="right" scrollamount="9">
-  <img src="cat_profile.gif" width="100" />
-</marquee>
+<img src="cat_profile.gif" width="100" style="margin-left: 50px;" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=radical&bg_color=00000000&hide_border=true)
 
