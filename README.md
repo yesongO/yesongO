@@ -4,9 +4,13 @@
   <img src="github_profile5.png" alt="My GitHub Profile Image" />
 </div>
 
+<br>
 
-<p>👩🏻‍💻 Frontend Developer<br>
-🏫 Inha-university (Dept. of Design Technology)</p>
+<p style="font-size: 18px; font-weight: bold;">
+👩🏻‍💻 Frontend Developer<br>
+🏫 Inha-university (Dept. of Design Technology)
+</p>
+
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=radical&bg_color=00000000&hide_border=true)
