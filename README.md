@@ -20,7 +20,7 @@
     </td>
     <td style="vertical-align: middle; padding-left: 20px;">
       <p>My commit activity :<br>
-      👉 <a href="https://gist.github.com/yesongO/0f0512cc54d913453025a3b17c235dc6" target="_blank">am I a daydreamer or night owl? 🦉✨</a></p>
+      👉🏻 <a href="https://gist.github.com/yesongO/0f0512cc54d913453025a3b17c235dc6" target="_blank">am I a daydreamer or night owl? 🦉✨</a></p>
     </td>
   </tr>
 </table>
