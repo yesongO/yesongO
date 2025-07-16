@@ -13,26 +13,16 @@
 
 <hr style="border: 0.5px solid black;">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=radical&bg_color=00000000&hide_border=true" />
-    </td>
-    <td>
-    </td>
-  </tr>
-</table>
-
-<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=radical&bg_color=00000000&hide_border=true)
 
-
+<!--
 ## ☀️🌃 Commit Activity 
 [![Productive Time](https://github-readme-productive-box.vercel.app/api/?username=yesongO&theme=github-dark&height=150&width=600)](https://github.com/yesongO/productive-box)
 -->
 
+<!--
 [![Productive Time](https://productive-box-git-master-yesongos-projects.vercel.app/api/?username=yesongO&theme=github-dark)](https://github.com/yesongO/productive-box)
-
+-->
 
 
 <!--
