@@ -24,17 +24,17 @@
     </td>
   </tr>
 </table>
-<table style="border-collapse: separate; border-spacing: 10px; border-radius: 10px; overflow: hidden; border: 1px solid #ccc;">
-  <tr>
-    <td style="border: 1px solid #ccc; border-radius: 10px; padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=radical&bg_color=00000000&hide_border=true" />
-    </td>
-    <td style="border: 1px solid #ccc; border-radius: 10px; padding: 10px; vertical-align: middle; padding-left: 20px;">
-      <p>My commit activity here:<br/>
-      👉 <a href="https://gist.github.com/yesongO/0f0512cc54d913453025a3b17c235dc6" target="_blank">am I a daydreamer or night owl? ☀️🌃</a></p>
-    </td>
-  </tr>
-</table>
+
+<div style="display: flex; gap: 20px; align-items: center;">
+  <div style="border: 1px solid #ccc; border-radius: 15px; padding: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=radical&bg_color=00000000&hide_border=true" />
+  </div>
+  <div style="border: 1px solid #ccc; border-radius: 15px; padding: 10px;">
+    <p>commit activity here:<br/>
+    👉 <a href="https://gist.github.com/yesongO/0f0512cc54d913453025a3b17c235dc6" target="_blank">Commit Activity Gist</a></p>
+  </div>
+</div>
+
 
 
 <!--
