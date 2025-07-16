@@ -19,7 +19,6 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=radical&bg_color=00000000&hide_border=true" />
     </td>
     <td>
-      <img src="https://github-readme-productive-box.vercel.app/api/?username=yesongO&theme=github-dark&height=150&width=500" />
     </td>
   </tr>
 </table>
