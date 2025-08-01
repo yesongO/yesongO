@@ -7,8 +7,8 @@
 <br>
 
 <p style="font-size: 18px;">
-  <b>👩🏻‍💻 Frontend Developer</b><br>
-  <b>🏫 Inha-University (Dept. of Design Technology)</b>
+  <b>👩🏻‍💻 Frontend & VR Developer</b><br>
+  <b>🦆 Inha-University (Dept. of Design Technology)</b>
 </p>
 
 <hr style="border: 0.5px solid black;">
