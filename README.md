@@ -6,8 +6,10 @@
 
 <br>
 
-### 👩🏻‍💻 Frontend & VR Developer  
-### 🏝️ Inha-University (Dept. of Design Technology)
+<p style="font-size: 30px; margin: 0;">
+  👩🏻‍💻 Frontend & VR Developer<br>
+  🏝️ Inha-University (Dept. of Design Technology)
+</p>
 
 <hr style="border: 0.5px solid black;">
 
