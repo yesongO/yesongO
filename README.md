@@ -6,9 +6,9 @@
 
 <br>
 
-<p style="font-size: 18px;">
-  <b>👩🏻‍💻 Frontend & VR Developer</b><br>
-  <b>🦆 Inha-University (Dept. of Design Technology)</b>
+<p style="font-size: 20px;">
+  <p>👩🏻‍💻 | Frontend & VR Developer</p><br>
+  <p>🦆 | Inha-University (Dept. of Design Technology)</p>
 </p>
 
 <hr style="border: 0.5px solid black;">
