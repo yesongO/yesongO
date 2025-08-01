@@ -6,10 +6,10 @@
 
 <br>
 
-<p style="font-size: 20px;">
-  <p>👩🏻‍💻 | Frontend & VR Developer</p><br>
-  <p>🦆 | Inha-University (Dept. of Design Technology)</p>
-</p>
+<div style="font-size: 20px; line-height: 1.6;">
+  <p>👩🏻‍💻| Frontend & VR Developer</p>
+  <p>🏝️| Inha-University (Dept. of Design Technology)</p>
+</div>
 
 <hr style="border: 0.5px solid black;">
 
