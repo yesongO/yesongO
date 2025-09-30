@@ -8,11 +8,15 @@
 
 <p style="font-size: 60px; margin: 10;">
   👩🏻‍💻 <b>Frontend & VR Developer</b><br>
-  🏝️ <b>Inha-University (Dept. of Design Technology)</b>
+  🏫 <b>Inha-University (Dept. of Design Technology)</b>
 </p>
 
 <hr style="border: 0.5px solid black;">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=radical&bg_color=00000000&hide_border=true" />
+
+
+<!--
 <table>
   <tr>
     <td>
@@ -24,26 +28,15 @@
     </td>
   </tr>
 </table>
-
+-->
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=radical&bg_color=00000000&hide_border=true)
-
 commit activity here:  
 👉 [Commit Activity Gist](https://gist.github.com/yesongO/0f0512cc54d913453025a3b17c235dc6)
--->
-
-<!--
 ## ☀️🌃 Commit Activity 
 [![Productive Time](https://github-readme-productive-box.vercel.app/api/?username=yesongO&theme=github-dark&height=150&width=600)](https://github.com/yesongO/productive-box)
--->
-
-<!--
 [![Productive Time](https://productive-box-git-master-yesongos-projects.vercel.app/api/?username=yesongO&theme=github-dark)](https://github.com/yesongO/productive-box)
--->
-
-
-<!--
 **yesongO/yesongO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
@@ -55,8 +48,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact)
-
 -->
