@@ -13,7 +13,7 @@
 
 <hr style="border: 0.5px solid black;">
 
-<div align="center">
+<div align="left">
   <table>
     <tr>
       <td valign="top">
@@ -21,17 +21,17 @@
       </td>
       <td valign="top">
         <br>
-        <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="20"/>
-        <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" height="20"/>
-        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="20"/>
-        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="20"/>
+        <img src="https://img.shields.io/badge/figma-%23caffbf.svg?style=for-the-badge&logo=figma&logoColor=black" alt="Figma" height="20"/>
+        <img src="https://img.shields.io/badge/blender-%23ffd6a5.svg?style=for-the-badge&logo=blender&logoColor=black" alt="Blender" height="20"/>
+        <img src="https://img.shields.io/badge/html5-%23ffe5d9.svg?style=for-the-badge&logo=html5&logoColor=black" alt="HTML5" height="20"/>
+        <img src="https://img.shields.io/badge/css3-%23ffcad4.svg?style=for-the-badge&logo=css3&logoColor=black" alt="CSS3" height="20"/>
         <br>
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" height="20"/>
-        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" height="20"/>
-        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="20"/>
+        <img src="https://img.shields.io/badge/python-b5e2fa?style=for-the-badge&logo=python&logoColor=black" alt="Python" height="20"/>
+        <img src="https://img.shields.io/badge/javascript-%23fdffb6.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="20"/>
+        <img src="https://img.shields.io/badge/typescript-%23a0c4ff.svg?style=for-the-badge&logo=typescript&logoColor=black" alt="TypeScript" height="20"/>
         <br>
-        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" height="20"/>
-        <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" height="20"/>
+        <img src="https://img.shields.io/badge/react-%239bf6ff.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" height="20"/>
+        <img src="https://img.shields.io/badge/threejs-cae9ff?style=for-the-badge&logo=three.js&logoColor=black" alt="Three.js" height="20"/>
       </td>
     </tr>
   </table>
