@@ -1,4 +1,9 @@
-![github_heartcat](https://github.com/user-attachments/assets/a2fd520c-9721-40db-ab46-84a0f2a071c8)
+<div style="display: flex; align-items: center;">
+  <!-- 왼쪽 GIF -->
+  <img src="https://github.com/user-attachments/assets/a2fd520c-9721-40db-ab46-84a0f2a071c8" width="200" />
+  <!-- 오른쪽 텍스트 이미지 -->
+  <img src="https://github.com/user-attachments/assets/94491906-db42-4e36-a06a-94a77428b8ac" width="900" />
+</div>
 
 <br>
 
@@ -7,25 +12,6 @@
 </p>
 
 <hr style="border: 0.5px solid black;">
-
-<hr style="border: 0.5px solid black;">
-
-## 📝 Publications & Awards
-
-### 📄 1. Paper accepted to **SoftwareX**  
-**"HandWind-Sim: Real-time web-based cloth simulation with gesture-driven wind interaction"**  
-<sub>Yesong Oh, Jong-Hyun Kim, 2025</sub>
-
----
-
-### 🏆 2. **Best Paper Award — KSCI Conference 2024**  
-**"Web-based virtual reality framework for physically-based cloth simulation and interaction"**  
-<sub>Korea Society of Computer and Information, 2024</sub>
-
----
-
-### 📚 3. Web-based wind–cloth simulation framework using hand-tracking gesture interaction  
-<sub>Ye-Song Oh, Jong-Hyun Kim, KSCI Proceedings, Vol. 33, No. 2, pp. 709–712, July 2025</sub> 
 
 <div align="left">
   <table>
@@ -50,4 +36,19 @@
     </tr>
   </table>
 </div>
+
+## 📝 Publications & Awards
+
+### 📄 1. SoftwareX (Accepted) 
+**"HandWind-Sim: Real-time web-based cloth simulation with gesture-driven wind interaction"**  
+---
+
+### 🏆 2. KSCI 2024 (Best Paper Award)
+**"Web-based virtual reality framework for physically-based cloth simulation and interaction"**  
+---
+
+### 📚 3. KSCI 2025 (Presented) 
+**"Web-based wind–cloth simulation framework using hand-tracking gesture interaction"**
+
+
 
