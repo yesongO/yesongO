@@ -37,16 +37,16 @@
   </table>
 </div>
 
-#### 📝 Publications & Awards
+<h4>📝 Publications & Awards</h4>
 
-##### 📄 1. SoftwareX (Accepted) 
-<small>"HandWind-Sim: Real-time web-based cloth simulation with gesture-driven wind interaction"</small>
+<h5>📄 1. SoftwareX (Accepted)</h5> 
+<p>"HandWind-Sim: Real-time web-based cloth simulation with gesture-driven wind interaction"</p>
 ---
-##### 🏆 2. KSCI 2024 (Best Paper Award)
-<small>"Web-based virtual reality framework for physically-based cloth simulation and interaction"</small>
+<h5>🏆 2. KSCI 2024 (Best Paper Award)</h5>
+<p>"Web-based virtual reality framework for physically-based cloth simulation and interaction"</p>
 ---
-##### 📚 3. KSCI 2025 (Presented) 
-<small>"Web-based wind–cloth simulation framework using hand-tracking gesture interaction"</small>
+<h5>📚 3. KSCI 2025 (Presented)</h5>
+<p>"Web-based wind–cloth simulation framework using hand-tracking gesture interaction"</p>
 
 
 
