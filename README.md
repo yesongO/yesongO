@@ -1,14 +1,11 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="cat_profile.gif" width="100" /></p>
 
-<div align="left">
-  <img src="github_profile5.png" alt="My GitHub Profile Image" />
-</div>
+![github_heartcat](https://github.com/user-attachments/assets/a2fd520c-9721-40db-ab46-84a0f2a071c8)
 
 <br>
 
 <p style="font-size: 60px; margin: 10;">
   👩🏻‍💻 <b>Frontend & VR Developer</b><br>
-  🏫 <b>Inha-University (Dept. of Design Technology)</b>
 </p>
 
 <hr style="border: 0.5px solid black;">
