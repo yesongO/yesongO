@@ -41,7 +41,7 @@
 
 <h3>📝 Publications & Awards</h3>
 
-<p style="margin:0; line-height:1.1; font-weight:bold;">📄 1. SoftwareX (Accepted)</p> 
+<p style="margin:0; line-height:0.5; font-weight:bold;">📄 1. SoftwareX (Accepted)</p> 
 <p style="margin:0; line-height:1.1; font-size:12px;">"HandWind-Sim: Real-time web-based cloth simulation with gesture-driven wind interaction"</p>
 
 <h5 style="margin:0; padding:0;">🏆 2. KSCI 2024 (Best Paper Award)</h5>
