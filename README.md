@@ -8,8 +8,8 @@
 <br>
 
 <p style="font-size: 60px; margin: 10;">
-  <b>👋🏻 Hi, I'm Frontend Developer</b><br>
-  <span style="color:#888;">Passionate about Three.js & WebXR</span>
+  <b>Hi, I'm Frontend Developer 👋🏻</b><br>
+  <span>(Passionate about Three.js & WebXR)</span>
 </p>
 
 <hr style="border: 0.5px solid black;">
