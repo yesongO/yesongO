@@ -9,7 +9,7 @@
 
 <p style="font-size: 60px; margin: 10;">
   <b>Hi, I'm Frontend Developer 👋🏻</b><br>
-  <span>(Passionate about Three.js & WebXR)</span>
+  <b>I am Passionate about Three.js & WebXR 🔎</b>
 </p>
 
 <hr style="border: 0.5px solid black;">
