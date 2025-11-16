@@ -8,7 +8,8 @@
 <br>
 
 <p style="font-size: 60px; margin: 10;">
-  👩🏻‍💻 <b>Frontend & VR Developer</b><br>
+  <b>👋🏻 Hi, I'm Frontend Developer</b><br>
+  <span style="color:#888;">Passionate about Three.js & WebXR</span>
 </p>
 
 <hr style="border: 0.5px solid black;">
@@ -41,18 +42,18 @@
 
 <div style="display:flex; flex-direction:column; gap:6px;">
 
-  <div>
-    <span style="font-weight:bold; font-size:16px;">📄 1. SoftwareX (Accepted)</span><br>
+  <div style="margin-bottom:10px;">
+    <span style="font-weight:bold; font-size:18px;">📄 1. SoftwareX (Accepted)</span><br>
     <span style="font-size:12px; color:#555;">"HandWind-Sim: Real-time web-based cloth simulation with gesture-driven wind interaction"</span>
   </div>
 
-  <div>
-    <span style="font-weight:bold; font-size:16px;">🏆 2. KSCI 2024 (Best Paper Award)</span><br>
+  <div style="margin-bottom:10px;">
+    <span style="font-weight:bold; font-size:18px;">🏆 2. KSCI 2024 (Best Paper Award)</span><br>
     <span style="font-size:12px; color:#555;">"Web-based virtual reality framework for physically-based cloth simulation and interaction"</span>
   </div>
 
-  <div>
-    <span style="font-weight:bold; font-size:16px;">📚 3. KSCI 2025 (Presented)</span><br>
+  <div style="margin-bottom:10px;">
+    <span style="font-weight:bold; font-size:18px;">📚 3. KSCI 2025 (Presented)</span><br>
     <span style="font-size:12px; color:#555;">"Web-based wind–cloth simulation framework using hand-tracking gesture interaction"</span>
   </div>
 
