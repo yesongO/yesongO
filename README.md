@@ -41,10 +41,8 @@
 
 <h5>📄 1. SoftwareX (Accepted)</h5> 
 <p>"HandWind-Sim: Real-time web-based cloth simulation with gesture-driven wind interaction"</p>
----
 <h5>🏆 2. KSCI 2024 (Best Paper Award)</h5>
 <p>"Web-based virtual reality framework for physically-based cloth simulation and interaction"</p>
----
 <h5>📚 3. KSCI 2025 (Presented)</h5>
 <p>"Web-based wind–cloth simulation framework using hand-tracking gesture interaction"</p>
 
