@@ -16,7 +16,6 @@
   <table>
     <tr>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=radical&bg_color=00000000&hide_border=true" />
       </td>
       <td valign="top">
         <br>
