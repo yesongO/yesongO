@@ -16,6 +16,7 @@
   <table>
     <tr>
       <td valign="top">
+        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=dracula)
       </td>
       <td valign="top">
         <br>
