@@ -17,7 +17,7 @@
     <tr>
       <td valign="top">
         <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=transparent" 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=shadow_red" 
           alt="Top Langs"
         />
       </td>
