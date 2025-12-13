@@ -18,11 +18,11 @@
       <td valign="top">
         <picture>
         <source 
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=neon"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=omni"
           media="(prefers-color-scheme: dark)"
         />
         <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=rose"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=swift"
           alt="Top Langs"
         />
       </picture>
