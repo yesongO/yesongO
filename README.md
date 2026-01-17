@@ -16,7 +16,7 @@
   <table>
     <tr>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=transparent&v=2" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=default&cache_seconds=21600" />
       </td>
       <td valign="top">
         <br>
