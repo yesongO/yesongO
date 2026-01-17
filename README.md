@@ -16,16 +16,7 @@
   <table>
     <tr>
       <td valign="top">
-        <picture>
-        <source 
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=omni"
-          media="(prefers-color-scheme: dark)"
-        />
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=swift"
-          alt="Top Langs"
-        />
-      </picture>
+        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=transparent&v=1)
       </td>
       <td valign="top">
         <br>
