@@ -16,7 +16,7 @@
   <table>
     <tr>
       <td valign="top">
-        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=transparent&v=1)
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=transparent&v=2" />
       </td>
       <td valign="top">
         <br>
