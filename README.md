@@ -15,9 +15,9 @@
 <div align="left">
   <table>
     <tr>
-      <td valign="top">
+      <!-- <td valign="top">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=default&cache_seconds=21600" />
-      </td>
+      </td> -->
       <td valign="top">
         <br>
         <img src="https://img.shields.io/badge/figma-%23caffbf.svg?style=for-the-badge&logo=figma&logoColor=black" alt="Figma" height="20"/>
@@ -52,3 +52,6 @@
     <br>
     <small>"Web-based wind–cloth simulation framework using hand-tracking gesture interaction"</small>
 
+* **📚 4. KSCI 2026 (Presented)**
+    <br>
+    <small>"HandWind-Sim++: A web-based cloth simulation for learning-based gesture-controlled wind interaction"</small>
