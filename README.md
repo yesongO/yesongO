@@ -10,19 +10,19 @@
   <b>I am Passionate about Three.js & WebXR 🔎</b>
 </p>
 
-<p style="font-size: 60px; margin: 10;">
-  <b>🎓 Inha University — Design Technology × Data Science (Double Major)</b><br>
-  <b>(2021.3 - )</b>
-</p>
+
+<p>🎓 Inha University — Design Technology × Data Science (Double Major)</p>
+<p>(2021.3 - )</p>
 
 <hr style="border: 0.5px solid black;">
 
 <div align="left">
   <table>
     <tr>
-      <!-- <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=default&cache_seconds=21600" />
-      </td> -->
+      <td valign="top">
+        <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=default&cache_seconds=21600" /> -->
+        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact)
+      </td>
       <td valign="top">
         <br>
         <img src="https://img.shields.io/badge/figma-%23caffbf.svg?style=for-the-badge&logo=figma&logoColor=black" alt="Figma" height="20"/>
@@ -65,4 +65,4 @@
 
 ### 👜 Experiences
 
-* **🦁 Like Lion 13th @Inha University - Frontend Session
+* **🦁 Like Lion 13th @Inha University - Frontend Session**
