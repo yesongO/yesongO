@@ -10,17 +10,25 @@
   <b>I am Passionate about Three.js & WebXR 🔎</b>
 </p>
 
+<hr style="border: 0.3px solid black;">
 
-<div>🎓 Inha University — Design Technology × Data Science (Double Major)</div>
-<div style="font-size: 0,9em; color: #666;">(2021.3 - )</div>
-
-<hr style="border: 0.5px solid black;">
+<div><b>🎓 Inha University — Design Technology × Data Science (Double Major)</b><p>(2021.3 - )</p></div>
 
 <div align="left">
   <table>
     <tr>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=default&cache_seconds=21600" />
+        <!-- Light mode -->
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=graywhite"
+          #gh-light-mode-only
+        />
+        <!-- Dark mode -->
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=omni"
+          #gh-dark-mode-only
+        />
+        <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=default&cache_seconds=21600" /> -->
       </td>
       <td valign="top">
         <br>
@@ -61,6 +69,7 @@
     <small>"HandWind-Sim++: A web-based cloth simulation for learning-based gesture-controlled wind interaction"</small>
     
 <br>
+<hr>
 
 ### 👜 Experiences
 
