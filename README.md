@@ -18,16 +18,15 @@
   <table>
     <tr>
       <td valign="top">
-        <!-- Light mode -->
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=graywhite"
-          #gh-light-mode-only
-        />
-        <!-- Dark mode -->
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=omni"
-          #gh-dark-mode-only
-        />
+        <picture>
+          <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=omni"
+            media="(prefers-color-scheme: dark)"
+          />
+          <img
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=graywhite"
+          />
+        </picture>
         <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=default&cache_seconds=21600" /> -->
       </td>
       <td valign="top">
@@ -68,7 +67,6 @@
     <br>
     <small>"HandWind-Sim++: A web-based cloth simulation for learning-based gesture-controlled wind interaction"</small>
     
-<br>
 <hr>
 
 ### 👜 Experiences
