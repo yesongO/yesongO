@@ -10,8 +10,10 @@
   <b>I am Passionate about Three.js & WebXR 🔎</b>
 </p>
 
-🎓 Inha University — Design Technology × Data Science (Double Major)
-(2021.3 - )
+<p style="font-size: 60px; margin: 10;">
+  <b>🎓 Inha University — Design Technology × Data Science (Double Major)</b><br>
+  <b>(2021.3 - )</b>
+</p>
 
 <hr style="border: 0.5px solid black;">
 
@@ -58,7 +60,9 @@
 * **📚 4. KSCI 2026 (Presented)**
     <br>
     <small>"HandWind-Sim++: A web-based cloth simulation for learning-based gesture-controlled wind interaction"</small>
+    
 <br>
+
 ### 👜 Experiences
 
 * **🦁 Like Lion 13th @Inha University - Frontend Session
