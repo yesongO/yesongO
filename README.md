@@ -5,14 +5,14 @@
 
 <br>
 
-<p style="font-size: 60px; margin: 10;">
+<p style="font-size: 60px; margin: 12;">
   <b>Hi, I'm Frontend Developer who turns user behavior into interactive web experiences 👋🏻</b><br>
   <b>I am Passionate about Three.js & WebXR 🔎</b>
 </p>
 
 
-<p>🎓 Inha University — Design Technology × Data Science (Double Major)</p>
-<p>(2021.3 - )</p>
+<div>🎓 Inha University — Design Technology × Data Science (Double Major)</div>
+<div style="font-size: 0,9em; color: #666;">(2021.3 - )</div>
 
 <hr style="border: 0.5px solid black;">
 
@@ -20,8 +20,7 @@
   <table>
     <tr>
       <td valign="top">
-        <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=default&cache_seconds=21600" /> -->
-        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact)
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=default&cache_seconds=21600" />
       </td>
       <td valign="top">
         <br>
@@ -65,4 +64,4 @@
 
 ### 👜 Experiences
 
-* **🦁 Like Lion 13th @Inha University - Frontend Session**
+* **🦁 Like Lion 13th @Inha University - Frontend Session** (2025.3 - 2025.8) 
