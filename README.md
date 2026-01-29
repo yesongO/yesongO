@@ -13,6 +13,7 @@
 <hr style="border: 0.3px solid black;">
 
 <div><b>🎓 Inha University — Design Technology × Data Science (Double Major)</b> (2021.3 - )</div>
+<br>
 
 <div align="left">
   <table>
