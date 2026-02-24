@@ -28,8 +28,9 @@
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=graywhite&v=1"
           />
         </picture> -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=default&cache_seconds=21600" />
-      </td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=omni" alt="Top Langs"/>
+        <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=default&cache_seconds=21600" />
+      </td> -->
       <td valign="top">
         <br>
         <img src="https://img.shields.io/badge/figma-%23caffbf.svg?style=for-the-badge&logo=figma&logoColor=black" alt="Figma" height="20"/>
