@@ -6,7 +6,7 @@
 <br>
 
 <p style="font-size: 60px; margin: 12;">
-  <b>Hi, I'm Frontend Developer who turns user behavior into interactive web experiences 👋🏻</b><br>
+  <b>Hi, I'm 3D Frontend Developer who turns user behavior into interactive web experiences 👋🏻</b><br>
   <b>I am Passionate about Three.js & WebXR 🔎</b>
 </p>
 
