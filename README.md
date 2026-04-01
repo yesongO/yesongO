@@ -14,7 +14,7 @@
 
 ### 🎓 Education
 
-* **🏫 Inha University — Design Technology × Data Science (Double Major) (2021.3 - )
+* **🏫 Inha University** — Design Technology × Data Science (Double Major) (2021.3 - )
 
 <br>
 
