@@ -19,22 +19,13 @@
   <table>
     <tr>
       <td valign="top">
-        <!-- <picture>
-          <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=omni&v=1"
-            media="(prefers-color-scheme: dark)"
-          />
-          <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=graywhite&v=1"
-          />
-        </picture> -->
         <picture>
           <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=omni"
+            srcset="https://github-readme-stats-theta-mocha-64.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=omni"
             media="(prefers-color-scheme: dark)"
           />
           <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=graywhite"
+            src="https://github-readme-stats-theta-mocha-64.vercel.app/api/top-langs/?username=yesongO&layout=compact&theme=graywhite"
             alt="Yesong's Top Languages"
           />
         </picture>
