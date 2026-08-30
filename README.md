@@ -14,8 +14,8 @@
 
 ### 🎓 Education
 
-* **🏫 Inha University** — Design Technology × Data Science (Double Major) (2021.3 - 2026.8)
-* * **🦁 Like Lion 13th @Inha University - Frontend Session** (2025.3 - 2025.8) 
+* **🏫 Inha University** — Design Technology × Data Science (Double Major) ( 2021.3 - 2026.8 )
+* **🦁 Like Lion 13th @Inha University** - Frontend Session ( 2025.3 - 2025.8 ) 
 
 <br>
 
@@ -78,4 +78,4 @@
 
 ### 👜 Experiences
 
-* **🥕 Daangn - 3D Frontend Engineer** (2026.4 - current) 
+* **🥕 Daangn - 3D Frontend Engineer** ( 2026.4 - current ) 
